@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactMyprofileSite/static/css/main.dc5928b0.css",
+    "main.js": "/ReactMyprofileSite/static/js/main.b23f656d.js",
+    "static/js/415.4d6acbeb.chunk.js": "/ReactMyprofileSite/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ReactMyprofileSite/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.svg": "/ReactMyprofileSite/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/ReactMyprofileSite/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/ReactMyprofileSite/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/raviresume.pdf": "/ReactMyprofileSite/static/media/raviresume.834d49f8b3b9d872ce05.pdf",
+    "static/media/home-bg.jpg": "/ReactMyprofileSite/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/ReactMyprofileSite/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/ReactMyprofileSite/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/ReactMyprofileSite/index.html",
+    "main.dc5928b0.css.map": "/ReactMyprofileSite/static/css/main.dc5928b0.css.map",
+    "main.b23f656d.js.map": "/ReactMyprofileSite/static/js/main.b23f656d.js.map",
+    "415.4d6acbeb.chunk.js.map": "/ReactMyprofileSite/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ReactMyprofileSite/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc5928b0.css",
+    "static/js/main.b23f656d.js"
+  ]
+}
